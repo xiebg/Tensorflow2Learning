@@ -76,15 +76,17 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 ```
 
 ## 使用说明
-阅读文档：每个章节都配有详细的中文注释和解释，建议按顺序阅读并理解每一部分内容。
-运行代码：确保所有依赖已正确安装后，可以直接运行各个Python脚本文件，体验TensorFlow 2的强大功能。
-数据集：数据集只为展示数据的形状，并不全面，如果需要可自行联系本人。
-参与贡献：欢迎对项目提出改进建议或贡献新的内容，共同完善这个学习资源。
+
+- 阅读文档：每个章节都配有详细的中文注释和解释，建议按顺序阅读并理解每一部分内容。
+- 运行代码：确保所有依赖已正确安装后，可以直接运行各个Python脚本文件，体验TensorFlow 2的强大功能。
+- 数据集：数据集只为展示数据的形状，并不全面，如果需要可自行联系本人。
+- 参与贡献：欢迎对项目提出改进建议或贡献新的内容，共同完善这个学习资源。
 通过以上扩展描述，希望用户能够更全面地了解该项目的内容和价值，从而更好地利用这些资源进行学习和实践。
 
 ## 构建方法
 
 本项目使用Python编写，无需构建过程。
+
 ## 贡献者
 
 - [日月光华](https://study.163.com/course/courseMain.htm?courseId=1004573006&_trace_c_p_k2_=a545557bf66342f7b06c4c2de9a029d7)
@@ -114,7 +116,6 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 
 - 邮箱：[2262752545@qq.com](mailto:2262752545@qq.com)
 - 网站：[https://space.bilibili.com/543167653](https://space.bilibili.com/543167653)
-- 
 
 # Engerlish Version
 
@@ -132,9 +133,9 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 
 ## Usage
 
-Read the documentation: Each chapter comes with detailed Chinese comments and explanations, and it is recommended to read and understand each part in order.
-Run the code: After ensuring that all dependencies are correctly installed, you can directly run the various Python script files to experience the powerful features of TensorFlow 2.
-Dataset: The dataset is only for displaying the shape of the data and is not comprehensive. If needed, you can contact the author for more information.
+- Read the documentation: Each chapter comes with detailed Chinese comments and explanations, and it is recommended to read and understand each part in order.
+- Run the code: After ensuring that all dependencies are correctly installed, you can directly run the various Python script files to experience the powerful features of TensorFlow 2.
+- Dataset: The dataset is only for displaying the shape of the data and is not comprehensive. If needed, you can contact the author for more information.
 
 ## Contributors
 
