@@ -82,7 +82,6 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 参与贡献：欢迎对项目提出改进建议或贡献新的内容，共同完善这个学习资源。
 通过以上扩展描述，希望用户能够更全面地了解该项目的内容和价值，从而更好地利用这些资源进行学习和实践。
 
-
 ## 构建方法
 
 本项目使用Python编写，无需构建过程。
@@ -95,13 +94,11 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 
 本项目采用MIT许可证。请查看项目中的LICENSE文件了解更多信息。
 
-
 ## 注意事项
 
 - 本项目仅供学习和研究使用，请勿用于商业用途。
 - 请遵守酷我音乐网站的使用条款和条件，不要违反任何法律法规。
 - 本项目不保证爬取到的数据完全准确，请自行验证。
-
 
 ## 贡献
 
@@ -117,3 +114,46 @@ pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，ten
 
 - 邮箱：[2262752545@qq.com](mailto:2262752545@qq.com)
 - 网站：[https://space.bilibili.com/543167653](https://space.bilibili.com/543167653)
+- 
+
+# Engerlish Version
+
+
+## Introduction
+
+This project is a comprehensive guide to TensorFlow 2, covering basic concepts, installation, simple linear regression, multi-layer networks, and various deep learning models. It also includes advanced topics such as Eager mode and custom training, image localization, object detection, autoencoders, and variational autoencoders. The project is designed to help users understand TensorFlow 2 and its applications in practice.
+
+## Installation
+
+Use the following command to install dependencies:
+```bash
+pip install numpy, pandas，matplotlib，tensorboard，tensorflow-datasets，tensorflow, glob, lxml
+```
+
+## Usage
+
+Read the documentation: Each chapter comes with detailed Chinese comments and explanations, and it is recommended to read and understand each part in order.
+Run the code: After ensuring that all dependencies are correctly installed, you can directly run the various Python script files to experience the powerful features of TensorFlow 2.
+Dataset: The dataset is only for displaying the shape of the data and is not comprehensive. If needed, you can contact the author for more information.
+
+## Contributors
+
+- [日月光华](https://study.163.com/course/courseMain.htm?courseId=1004573006&_trace_c_p_k2_=a545557bf66342f7b06c4c2de9a029d7)
+- This tutorial is based on the video tutorials of the teacher, and some modifications have been made. Users are welcome to support the teacher. The explanation is very comprehensive and easy to understand!
+  
+## Contribution
+
+If you have any suggestions or improvements, please submit a Pull Request or create an Issue.
+
+## License
+
+This project is licensed under the MIT License. Please see the LICENSE file for more details.
+## Disclaimer
+
+This project does not guarantee the accuracy of the data obtained through crawling, please verify yourself.
+## Contact
+
+If you have any questions or suggestions, please contact us through the following methods:
+- Email: [2262752545@qq.com](mailto:2262752545@qq.com)
+- Website: [https://space.bilibili.com/543167653](https://space.bilibili.com/543167653)
+  
